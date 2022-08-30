@@ -57,3 +57,5 @@ if menu == '회원목록':
     st.dataframe(df, width=400)
 
 if menu == '정보수정':
+    st.subheader('정보수정')
+
